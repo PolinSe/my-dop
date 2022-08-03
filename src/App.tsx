@@ -9,6 +9,7 @@ type getType = {
     id: number
     title: string
     body: string
+
 }
 
 function App() {
